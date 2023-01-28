@@ -4,7 +4,7 @@
 .model small ;se define el tipo de modelo, corto
 .data ;aquí se definen las variables que se van a ocupar, es el segmento de datos
 
-mensaje db 'Este es mi Hola mundo!$'   ;Mensaje 
+mensaje db 'Hola profesor, buenas noches!$'   ;Mensaje 
 
 .code    ;bloque de codigo
 inicio: ;se define un comienzo del cuerpo del programa
